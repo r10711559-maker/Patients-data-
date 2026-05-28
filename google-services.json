@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "511232450304",
+    "firebase_url": "https://sri-sai-ram-diagno-default-rtdb.firebaseio.com",
+    "project_id": "sri-sai-ram-diagno",
+    "storage_bucket": "sri-sai-ram-diagno.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511232450304:android:f663f987e73e9167bb9de5",
+        "android_client_info": {
+          "package_name": "com.srisairam.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR6p4rtP8y6gtjUpKdrvBIkccgT0vsBjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
